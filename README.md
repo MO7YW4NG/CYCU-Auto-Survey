@@ -3,6 +3,8 @@
   <img src="https://i.imgur.com/k0f81KT.png" />
 </p>
 
+https://github.com/MO7YW4NG/CYCU-Auto-Survey/assets/66549438/d02d0714-74a3-4bb2-9e24-3b0b9931b532
+
 ## 介紹
 此程式協助你一鍵批量填答期末教學評量。
 ## 使用方法
