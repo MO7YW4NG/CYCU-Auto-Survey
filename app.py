@@ -68,9 +68,10 @@ def main():
             # Send answer
             result = {"selectItemIndex": index, "postParameters": ans}
             response = session.post(f"https://itouch.cycu.edu.tw/active_project/cycu2000h_11/survey/jsp/SurveyMain3.jsp?method=add_TS&pageToken=" + str(token), data=json.dumps(result),headers=headers)
-            print("填答完成!")
-            os.system("pause")
-            return
+        
+        print("填答完成!")
+        os.system("pause")
+        return
     except Exception as e:
         print(e)
         os.system("pause")
