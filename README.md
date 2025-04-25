@@ -7,6 +7,8 @@ https://github.com/MO7YW4NG/CYCU-Auto-Survey/assets/66549438/d02d0714-74a3-4bb2-
 
 ## 介紹
 此程式協助你一鍵批量填答期末教學評量。
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MO7YW4NG/CYCU-Auto-Survey/total)
 ## 使用方法
 
 1. [下載 msi 安裝檔](https://github.com/MO7YW4NG/CYCU-Auto-Survey/releases)
